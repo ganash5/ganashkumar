@@ -1,11 +1,15 @@
 {
-   "ky11":"description11",
-   "ky12":"description12",
-   "ky13":"description13",
-   "ky14":"description14",
-   "ky15":"description15",
-   "ky16":"description16",
-   "ky17":"description17",
-   "ky18":"description18",
-   "ky19":"description19"
+   "S021":"Healthcare",
+"S022":"Transportation",
+"S023":"Telecommunications",
+"S024":"Business Services",
+"S025":"Educational Services",
+"S026":"Media, Print, Publish",
+"S027":"Government",
+"S028":"Hotel & Leisure",
+"S029":"Restaurants",
+"S030":"Retail Outlets",
+"S031":"Retail online",
+"S032":"Radio, TV",
+"S033":"Professional Services"
 }
